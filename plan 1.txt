@@ -2,3 +2,4 @@ Sholat tepat waktu :
 1. Langsung sholat begitu terdengar azan
 2. Menginstall aplikasi sholat di hp
 3. Menghentikan kegiatan 5 menit sebelum azan
+4. Langsung sholat di rumah
